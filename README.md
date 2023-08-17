@@ -19,7 +19,7 @@
 
 # My TryHackMe Profile :
 <div style="display: flex;">
-   <a href="https://tryhackme.com/p/wristunchallenge">  TryHackMe </a>
+   <a href="https://tryhackme.com/p/wristunchallenge" TryHackMe </a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
