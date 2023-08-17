@@ -67,4 +67,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thedopamine&show_icons=true&locale=en" alt="thedopamine" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedopamine&" alt="thedopamine" /></p>
-
+<img src = https://github.com/0x157/0x157/blob/output/contrib-snek-yami.svg >
