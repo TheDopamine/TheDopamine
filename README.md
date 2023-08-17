@@ -1,4 +1,6 @@
- <samp>
+<p align="center">
+  <br>
+  <samp>
      
                                  ,-._,-._             
                               _,-\  o O_/;            
@@ -19,9 +21,12 @@
                      \          /    \           /       ██ ██      ██      ██    ██ ██   ██ ██    ██       ██    
                       `'-------`      `--------'`   ███████ ███████  ██████  ██████  ██   ██ ██    ██       ██                              
                       
+ <b><a rel="nofollow noopener noreferrer" target="_blank" href="http://fahdabida.com/"></a></b>
     
 
 </samp>
+</p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thedopamine&label=Profile%20views&color=0e75b6&style=flat" alt="thedopamine" /> </p>
