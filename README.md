@@ -21,7 +21,7 @@
                      \          /    \           /       ██ ██      ██      ██    ██ ██   ██ ██    ██       ██    
                       `'-------`      `--------'`   ███████ ███████  ██████  ██████  ██   ██ ██    ██       ██                              
                       
- <b><a rel="nofollow noopener noreferrer" target="_blank" href="http://fahdabida.com/"></a></b>
+ <b><a rel="" target="_blank" href=""></a></b>
     
 
 </samp>
